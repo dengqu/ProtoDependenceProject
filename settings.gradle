@@ -1,0 +1,4 @@
+include ':protoDependenceOnBase'
+include ':protoBaselibrary'
+include ':app'
+rootProject.name = "ProtoDependenceProject"
